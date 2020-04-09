@@ -16,7 +16,7 @@
 </p><br>
 <p>
   <img src="src/assets/readme_images/5.png" width="315" />
-  <img src="src/assets/readme_images/6png" width="315" />
+  <img src="src/assets/readme_images/6.png" width="315" />
   <img src="src/assets/readme_images/7.png" width="315" />
 </p>
 
