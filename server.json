@@ -1,0 +1,83 @@
+{
+  "sizes":[
+    {
+      "id":1,
+      "size": "Small",
+      "price":8
+    },
+    {
+      "id":2,
+      "size": "Medium",
+      "price":10
+    },
+    {
+      "id":3,
+      "size": "Large",
+      "price":12
+    }
+  ],
+  "crusts":[
+    {
+      "id":1,      
+      "type":"Thin",
+      "price":2
+    },
+    {
+      "id":2,
+      "type":"Thick",
+      "price":4
+    }
+  ],
+  "toppings":[
+    {
+      "id":1,
+      "flavor":"Pepperoni",
+      "img_url":"https://media.istockphoto.com/photos/single-slice-of-pepperoni-meatisolated-on-white-with-path-shot-from-picture-id1153708773?k=6&m=1153708773&s=612x612&w=0&h=vlmP3eySP3smpc-TyukJmufDH3YwUKIZKuKB85b7-rI="
+    },
+    {
+      "id":2,
+      "flavor":"Mushrooms",
+      "img_url":"https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/278/278858/mushrooms-in-a-bowel-on-a-dark-table.jpg?w=1155&h=1734"
+    },
+    {
+      "id":3,
+      "flavor":"Sausage",
+      "img_url":"https://cuetopiatexas.com/wp-content/uploads/2015/12/hot-texas-sausage-1.jpg"
+    },
+    {
+      "id":4,
+      "flavor":"Bacon",
+      "img_url":"https://abrilsuperinteressante.files.wordpress.com/2018/05/quanto-de-bacon-pode-render-um-c3banico-porco-e28093-e-o-quanto-ele-pode-nos-suprir-tambc3a9m-de-presunto-costela-pernil-e-outras-saborosas-partes.png?w=1024"
+    },
+    {
+      "id":5,
+      "flavor":"Onions",
+      "img_url":"https://ichef.bbci.co.uk/news/410/media/images/80896000/jpg/_80896768_red-onion-think624.jpg"
+    },
+    {
+      "id":6,
+      "flavor":"Extra cheese",
+      "img_url":"https://cdn.hswstatic.com/gif/different-cheeses.jpg"
+    },
+    {
+      "id":7,
+      "flavor":"Black olives",
+      "img_url":"https://image.shutterstock.com/image-photo/black-olives-leaves-260nw-189641201.jpg"
+    },
+    {
+      "id":8,
+      "flavor":"Green peppers",
+      "img_url":"https://cms.splendidtable.org/sites/default/files/poblano-peppers-LEDE.jpg"
+    },
+    {
+      "id":9,
+      "flavor":"Pineapple",
+      "img_url":"https://thenationpress.net/imgs/2019/09/1569861446blobid0.jpg"
+    },
+    {
+      "id":10,
+      "flavor":"Spinach",
+      "img_url":"https://www.mypricechopper.com/Frontend/Media/Recipes/spinachleaves359x359.jpg"
+    }
+  ]
+}
